@@ -1,6 +1,6 @@
 # CRT Club ISSTE Volunteering Designs
 
-Welcome to the **CRT Club ISSTE Volunteering Designs** repository! 🎨 This is a collection of design projects I created as a volunteer for the **CRT Club** at **ISSTE**. The repository includes logos for various departments within the club and a poster designed for a blood donation event.
+Welcome to the **CRT Club ISSTE Volunteering Designs** repository! 🎨 This is a collection of design projects I created as a volunteer for the **CRT Club** at **ISSTE**. The repository includes logos of various departments within the club and a poster designed for a blood donation event.
 ---
 
 ## 📁 Repository Structure
