@@ -1,6 +1,7 @@
-# CRT Club ISSTE Volunteering Designs
+# A.A.H.H.M Volunteering Designs
 
 Welcome to the **CRT Club ISSTE Volunteering Designs** repository! 🎨 This is a collection of design projects I created as a volunteer for the **CRT Club** at **ISSTE**. The repository includes logos of various departments within the club and a poster designed for a blood donation event.
+
 ---
 
 ## 📁 Repository Structure
@@ -8,7 +9,7 @@ Welcome to the **CRT Club ISSTE Volunteering Designs** repository! 🎨 This is 
 The repository is organized as follows:
 
 ```
-/CRT Club ISSTE Volunteering Designs
+/A.A.H.H.M Volunteering Designs
 │
 ├── designs/
 │   ├── design1.ai         # Adobe Illustrator source file
@@ -27,7 +28,7 @@ The repository is organized as follows:
 
 - **Source Files:** Includes `.ai` files for all designs, which can be opened and edited in Adobe Illustrator.
 - **Exported Previews:** Provides `.jpg` previews of the designs for easy viewing.
-- **Purpose-driven Designs:** Each project was created with the goal of supporting the CRT Club and its events, including their blood donation campaign.
+- **Purpose-driven Designs:** Each project was created with the goal of supporting the activities and events at the A.A.H.H.M school.
 
 ---
 
@@ -35,7 +36,7 @@ The repository is organized as follows:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AmenZemzem68/crt-club-isste-volunteering-design.git
+   git clone https://github.com/AmenZemzem68/aahhm-volunteering-designs.git
    ```
 
 2. Explore the `designs/` folder to access Adobe Illustrator files.
@@ -45,7 +46,7 @@ The repository is organized as follows:
 
 ## 💡 Inspiration
 
-As a developer, I enjoy exploring design in my free time. Volunteering for the CRT Club at ISSTE gave me an opportunity to blend my technical background with my passion for creative work. These designs reflect my effort to contribute to the club’s initiatives and events, including their blood donation drive.
+As a developer, I enjoy taking on creative challenges in my free time. Volunteering for the A.A.H.H.M school allowed me to combine my love for design with my passion for giving back to the community. These designs reflect my commitment to supporting a meaningful cause while honing my skills.
 
 ---
 
